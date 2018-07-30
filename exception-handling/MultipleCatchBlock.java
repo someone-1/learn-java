@@ -8,7 +8,7 @@ public class MultipleCatchBlock{
         catch(Exception e){
             System.out.println(e);
             System.out.println("task1 is completed");
-        }
+        } 
         System.out.println("rest of the code...");
     }
 }
